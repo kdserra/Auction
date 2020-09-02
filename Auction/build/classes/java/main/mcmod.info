@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "auction",
+        "name": "Auction",
+        "version": "1.0-SNAPSHOT",
+        "description": "Auction plugin for Sponge.",
+        "authorList": [
+            "kdserra"
+        ],
+        "dependencies": [
+            "spongeapi@7.2.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.2.0"
+        ]
+    }
+]
