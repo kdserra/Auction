@@ -15,6 +15,15 @@ Minecraft Sponge-Powered Plugin that adds an Auction system to the game.
 
 /auction list - Shows all the active auctions.
 
+# Permission Nodes
+
+`auction.command.start`
+`auction.command.bid`
+`auction.command.info`
+`auction.command.watch`
+`auction.command.list`
+`auction.command.help`
+
 # Build
 Built with IntelliJ IDEA Community Edition 2020.2.1
 
