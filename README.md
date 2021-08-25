@@ -17,6 +17,8 @@ Minecraft Sponge-Powered Plugin that adds an Auction system to the game.
 
 # Permission Nodes
 
+`auction.command.help`
+
 `auction.command.start`
   
 `auction.command.bid`
@@ -26,8 +28,6 @@ Minecraft Sponge-Powered Plugin that adds an Auction system to the game.
 `auction.command.watch`
   
 `auction.command.list`
-  
-`auction.command.help`
 
 # Build
 Built with IntelliJ IDEA Community Edition 2020.2.1
